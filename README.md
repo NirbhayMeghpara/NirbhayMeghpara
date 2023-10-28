@@ -21,6 +21,7 @@
 &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nirbhay0905/) 
 &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/nirbhay_0905)
 
+
 [<img align="right" width=300px height=300px alt="Nirbhay pic" src="./images/nirbhay.png" />]()
 
 ## 🖥️ Tech Stack
