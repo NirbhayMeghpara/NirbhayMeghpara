@@ -6,12 +6,12 @@
 
 ## 💫 About Me
 
-🔭 I’m currently working on Cabzy<br>
+🔭 I’m currently working on a ride-sharing platform&nbsp;[<strong>"Cabzy"</strong>](https://github.com/NirbhayMeghpara/Cabzy)<br>
 🌱 I’m currently learning about&nbsp; [<img src="./images/docker.png" height="20" width="70"/>](https://github.com/NirbhayMeghpara) &nbsp;& [<img src="./images/kubernetes.png" height="26" width="123"/>](https://github.com/NirbhayMeghpara)<br>
-👯 I’m looking to collaborate on open-source projects &nbsp; <br>
-👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio)<br>
-📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio/downloadable/Nirbhay%20Meghpara%20Resume.pdf) <br>
-📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) ()
+👯 I’m looking to collaborate on open-source projects &nbsp; [<img src="./images/bg.png" width="23"/>]() <br>
+👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio) [<img src="./images/bg.png" width="23"/>]()<br>
+📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio/downloadable/Nirbhay%20Meghpara%20Resume.pdf) [<img src="./images/bg.png" width="23"/>]()<br>
+📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) [<img src="./images/bg.png" width="23"/>]()
 
 ## 🌐 Socials
 
@@ -60,4 +60,4 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nirbhaymeghpara&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+[<img src="https://github-profile-trophy.vercel.app/?username=nirbhaymeghpara&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>](https://github.com/NirbhayMeghpara)
