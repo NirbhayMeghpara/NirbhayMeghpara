@@ -6,12 +6,12 @@
 
 ## 💫 About Me
 
-🔭 I’m currently working on a ride-sharing platform&nbsp;[<strong>"Cabzy"</strong>](https://github.com/NirbhayMeghpara/Cabzy)<br>
+🔭 I’m currently working on a ride-sharing platfor(m&nbsp;[<strong>"Cabzy"</strong>](https://github.com/NirbhayMeghpara/Cabzy)<br>
 🌱 I’m currently learning about&nbsp; [<img src="./images/docker.png" height="20" width="70"/>](https://github.com/NirbhayMeghpara) &nbsp;& [<img src="./images/kubernetes.png" height="26" width="123"/>](https://github.com/NirbhayMeghpara)<br>
-👯 I’m looking to collaborate on open-source projects &nbsp; [<img src="./images/bg.png" width="23"/>]() <br>
-👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio) [<img src="./images/bg.png" width="23"/>]()<br>
-📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio/downloadable/Nirbhay%20Meghpara%20Resume.pdf) [<img src="./images/bg.png" width="23"/>]()<br>
-📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) [<img src="./images/bg.png" width="23"/>]()
+👯 I’m looking to collaborate on open-source projects &nbsp; [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara) <br>
+👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
+📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio/downloadable/Nirbhay%20Meghpara%20Resume.pdf) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
+📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)
 
 ## 🌐 Socials
 
@@ -22,7 +22,7 @@
 &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/nirbhay_0905)
 
 
-[<img align="right" width=300px height=300px alt="Nirbhay pic" src="./images/nirbhay.png" />]()
+[<img align="right" width=300px height=300px alt="Nirbhay pic" src="./images/nirbhay.png" />](https://github.com/NirbhayMeghpara)
 
 ## 🖥️ Tech Stack
 
