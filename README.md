@@ -53,8 +53,8 @@
 
 ## 📶 GitHub Stats 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=nirbhaymeghpara&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>](https://github.com/NirbhayMeghpara)
-&nbsp; [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhaymeghpara&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>](https://github.com/NirbhayMeghpara)
+[<img src="https://github-readme-stats.vercel.app/api?username=nirbhaymeghpara&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="200px" />](https://github.com/NirbhayMeghpara)
+&nbsp; [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhaymeghpara&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />](https://github.com/NirbhayMeghpara)
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhaymeghpara&theme=react&hide_border=false"/>](https://github.com/NirbhayMeghpara)
 
