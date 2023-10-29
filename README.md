@@ -1,13 +1,20 @@
 [<img src="./images/intro.gif" alt="👋🏻 Hi, I am Nirbhay Meghpara">](https://github.com/NirbhayMeghpara/)
 
-<p align="center">
-  <a href="https://github.com/NirbhayMeghpara"><img src="https://komarev.com/ghpvc/?username=nirbhaymeghpara&label=Profile%20views&color=0e75b6&style=flat" alt="Nirbhay's Profile Views" /></a>
-</p>
+ <table>
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td> 
+        <a href="https://github.com/NirbhayMeghpara"><img src="https://komarev.com/ghpvc/?username=nirbhaymeghpara&style=for-the-badge&color=brightgreen"" alt="Nirbhay's Profile Views" /></a>
+      </td>
+    </tr>
+  </table>
 
-## 💫 About Me
+## 💫 What I'm Doing
 
-🔭 I’m currently working on a ride-sharing platfor(m&nbsp;[<strong>"Cabzy"</strong>](https://github.com/NirbhayMeghpara/Cabzy)<br>
-🌱 I’m currently learning about&nbsp; [<img src="./images/docker.png" height="20" width="70"/>](https://github.com/NirbhayMeghpara) &nbsp;& [<img src="./images/kubernetes.png" height="26" width="123"/>](https://github.com/NirbhayMeghpara)<br>
+🔭 I’m currently working on a ride-sharing platform &nbsp;[<strong>"Cabzy"</strong>](https://github.com/NirbhayMeghpara/Cabzy)<br>
+🌱 I’m currently learning about&nbsp; [<img src="./images/docker.png" height="20" width="70"/>](https://github.com/NirbhayMeghpara) &nbsp;& [<img src="./images/kubernetes.png" height="28" width="123"/>](https://github.com/NirbhayMeghpara)<br>
 👯 I’m looking to collaborate on open-source projects &nbsp; [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara) <br>
 👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
 📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://nirbhaymeghpara.github.io/portfolio/downloadable/Nirbhay%20Meghpara%20Resume.pdf) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
@@ -53,10 +60,11 @@
 
 ## 📶 GitHub Stats 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=nirbhaymeghpara&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="190px" />](https://github.com/NirbhayMeghpara)
-&nbsp; [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhaymeghpara&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="190px" />](https://github.com/NirbhayMeghpara)
+[<img src="https://github-readme-stats.vercel.app/api?username=nirbhaymeghpara&show_icons=true&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true" height="190px" />](https://github.com/NirbhayMeghpara)
+&nbsp; [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhaymeghpara&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="190px" />](https://github.com/NirbhayMeghpara)
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhaymeghpara&theme=react&hide_border=false" height="190px" />](https://github.com/NirbhayMeghpara)
+
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhaymeghpara&theme=dark&stroke=f53b3b&hide_border=false" height="190px" />](https://github.com/NirbhayMeghpara)
 
 ## 🏆 GitHub Trophies
 
