@@ -22,11 +22,11 @@
 
 ## 🌐 Socials
 
-[<img src="./images/codechef.png" width="3.5%"/>](https://www.codechef.com/users/nirbhay_09)
-&nbsp; [<img src="./images/discord.png" alt="9UQfSHNnfB" width="3.5%" />](https://discord.gg/9UQfSHNnfB)
-&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:nirbhaymeghpara123@gmail.com)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:nirbhaymeghpara123@gmail.com)
 &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nirbhay0905/) 
 &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/nirbhay_0905)
+&nbsp; [<img src="./images/discord.png" alt="9UQfSHNnfB" width="3.5%" />](https://discord.gg/9UQfSHNnfB)
+&nbsp; [<img src="./images/codechef.png" width="3.5%"/>](https://www.codechef.com/users/nirbhay_09)
 
 
 [<img align="right" width=300px height=300px alt="Nirbhay pic" src="./images/nirbhay.png" />](https://github.com/NirbhayMeghpara)
