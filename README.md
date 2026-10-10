@@ -17,7 +17,7 @@
 🌱 I’m currently learning about&nbsp;[<img src="./images/kubernetes.png" height="25" width="113"/>](https://github.com/NirbhayMeghpara)<br>
 👨‍💻 All of my projects are available at &nbsp;  [<img src="./images/link.png" width="18"/>](https://nirbhayca.me) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
 📄 Know about my experiences  &nbsp; [<img src="./images/link.png" width="18"/>](https://drive.google.com/file/d/1wyo3lxh_ivOrS1b0XvoJA6fCmztnaI-S/view?usp=sharing) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)<br>
-📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) [<img src="./images/bg.png" width="23"/>](https://github.com/NirbhayMeghpara)
+📫 How to reach me &nbsp; [<img src="./images/link.png" width="18"/>](nirbhaymeghpara123@gmail.com) [<img src="./images/bg.png" width="23"/>](https://www.nm09.dev/)
 
 ## 🌐 Socials
 
